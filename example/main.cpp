@@ -1,5 +1,5 @@
-#include <Process.hpp>
+#include <SFML/Graphics.hpp>
 
-void start() {
-
+int main() {
+    return 0;
 }
