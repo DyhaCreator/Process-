@@ -1,5 +1,6 @@
-#include <SFML/Graphics.hpp>
+#include "/home/kapusta/Документы/ProcessPP/Process.hpp"
 
-int main() {
+int start() {
+    
     return 0;
 }
