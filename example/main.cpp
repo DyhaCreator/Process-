@@ -1,6 +1,5 @@
-#include "/home/kapusta/Документы/ProcessPP/Process.hpp"
+#include "../Process.hpp"
 
-int start() {
-    
-    return 0;
+void start() {
+    print("Hello, World!");
 }
